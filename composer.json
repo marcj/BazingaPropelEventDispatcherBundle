@@ -6,8 +6,8 @@
         "marcj/propel-eventdispatcher-behavior": "^1.0"
     },
     "require-dev": {
-        "symfony/framework-bundle": "~2.1",
-        "symfony/yaml": "~2.1"
+        "symfony/framework-bundle": "~2.1|~3.0",
+        "symfony/yaml": "~2.1|~3.0"
     },
     "authors": [
         {
